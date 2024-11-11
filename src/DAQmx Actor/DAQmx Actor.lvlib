@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
 		<Item Name="Analog Write Msg.lvclass" Type="LVClass" URL="../Analog Writer Messages/Analog Write Msg/Analog Write Msg.lvclass"/>
+		<Item Name="Digital Toggle Single Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Toggle Single Msg/Digital Toggle Single Msg.lvclass"/>
 		<Item Name="Digital Write Multiple Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Write Multiple Msg/Digital Write Multiple Msg.lvclass"/>
 		<Item Name="Digital Write Single Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Write Single Msg/Digital Write Single Msg.lvclass"/>
 		<Item Name="Get High Speed Data Queue Msg.lvclass" Type="LVClass" URL="../Analog Reader Messages/Get High Speed Data Queue Msg/Get High Speed Data Queue Msg.lvclass"/>
