@@ -12,9 +12,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Test" Type="Folder">
+			<Item Name="Root Tester.lvlib" Type="Library" URL="../Root Tester/Root Tester.lvlib"/>
+			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+			<Item Name="Test2.vi" Type="VI" URL="../DAQmx Actor Interface/Digital Input Data/Test2.vi"/>
+		</Item>
 		<Item Name="DAQmx Actor Interface.lvlib" Type="Library" URL="../DAQmx Actor Interface/DAQmx Actor Interface.lvlib"/>
 		<Item Name="DAQmx Actor.lvlib" Type="Library" URL="../DAQmx Actor/DAQmx Actor.lvlib"/>
-		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
