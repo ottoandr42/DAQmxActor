@@ -4,8 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Analog Input Waveform Data Msg.lvclass" Type="LVClass" URL="../Analog Input Waveform Data Messages/Analog Input Waveform Data Msg/Analog Input Waveform Data Msg.lvclass"/>
+	<Item Name="Messages" Type="Folder">
+		<Item Name="Analog Input Waveform Data Msg.lvclass" Type="LVClass" URL="../Analog Input Waveform Data Messages/Analog Input Waveform Data Msg/Analog Input Waveform Data Msg.lvclass"/>
+		<Item Name="Digital Input Data Msg.lvclass" Type="LVClass" URL="../Digital Input Data Messages/Digital Input Data Msg/Digital Input Data Msg.lvclass"/>
+	</Item>
 	<Item Name="Analog Input Waveform Data.lvclass" Type="LVClass" URL="../Analog Input Waveform Data/Analog Input Waveform Data.lvclass"/>
-	<Item Name="DAQmx Actor Interface.lvclass" Type="LVClass" URL="../DAQmx Actor Interface/DAQmx Actor Interface.lvclass"/>
-	<Item Name="Digital Input Data Msg.lvclass" Type="LVClass" URL="../DAQmx Actor Interface Messages/Digital Input Data Msg/Digital Input Data Msg.lvclass"/>
+	<Item Name="Digital Input Data.lvclass" Type="LVClass" URL="../Digital Input Data/Digital Input Data.lvclass"/>
 </Library>
