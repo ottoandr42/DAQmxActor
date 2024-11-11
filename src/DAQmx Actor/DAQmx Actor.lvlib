@@ -5,5 +5,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Analog Reader.lvclass" Type="LVClass" URL="../Analog Reader/Analog Reader.lvclass"/>
+	<Item Name="Analog Write Msg.lvclass" Type="LVClass" URL="../Analog Writer Messages/Analog Write Msg/Analog Write Msg.lvclass"/>
+	<Item Name="Analog Writer.lvclass" Type="LVClass" URL="../Analog Writer/Analog Writer.lvclass"/>
 	<Item Name="DAQmx Actor.lvclass" Type="LVClass" URL="../DAQmx Actor/DAQmx Actor.lvclass"/>
+	<Item Name="Digital Reader.lvclass" Type="LVClass" URL="../Digital Reader/Digital Reader.lvclass"/>
+	<Item Name="Digital Writer.lvclass" Type="LVClass" URL="../Digital Writer/Digital Writer.lvclass"/>
 </Library>
