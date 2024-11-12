@@ -4,6 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Analog Input Waveform Data Msg.lvclass" Type="LVClass" URL="../Root Tester Messages/Analog Input Waveform Data Msg/Analog Input Waveform Data Msg.lvclass"/>
+	</Item>
 	<Item Name="Root Tester.lvclass" Type="LVClass" URL="../Root Tester/Root Tester.lvclass"/>
 </Library>
