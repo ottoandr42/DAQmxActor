@@ -15,7 +15,7 @@
 		<Item Name="Test" Type="Folder">
 			<Item Name="Root Tester.lvlib" Type="Library" URL="../Root Tester/Root Tester.lvlib"/>
 			<Item Name="Test 1.vi" Type="VI" URL="../Test 1.vi"/>
-			<Item Name="Test 2.vi" Type="VI" URL="../DAQmx Actor Interface/Digital Input Data/Test 2.vi"/>
+			<Item Name="Test 2.vi" Type="VI" URL="../Test 2.vi"/>
 		</Item>
 		<Item Name="DAQmx Actor Interface.lvlib" Type="Library" URL="../DAQmx Actor Interface/DAQmx Actor Interface.lvlib"/>
 		<Item Name="DAQmx Actor.lvlib" Type="Library" URL="../DAQmx Actor/DAQmx Actor.lvlib"/>
