@@ -8,6 +8,7 @@
 		<Item Name="Analog Write Multiple Msg.lvclass" Type="LVClass" URL="../Analog Writer Messages/Analog Write Multiple Msg/Analog Write Multiple Msg.lvclass"/>
 		<Item Name="Analog Write Single Msg.lvclass" Type="LVClass" URL="../Analog Writer Messages/Analog Write Single Msg/Analog Write Single Msg.lvclass"/>
 		<Item Name="Digital Toggle Single Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Toggle Single Msg/Digital Toggle Single Msg.lvclass"/>
+		<Item Name="Digital Write by Name Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Write by Name Msg/Digital Write by Name Msg.lvclass"/>
 		<Item Name="Digital Write Multiple Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Write Multiple Msg/Digital Write Multiple Msg.lvclass"/>
 		<Item Name="Digital Write Single Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Write Single Msg/Digital Write Single Msg.lvclass"/>
 		<Item Name="Get Digital Reader Current Values Queue Msg.lvclass" Type="LVClass" URL="../Digital Reader Messages/Get Digital Reader Current Values Queue Msg/Get Digital Reader Current Values Queue Msg.lvclass"/>
