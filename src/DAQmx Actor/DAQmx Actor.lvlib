@@ -5,7 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
-		<Item Name="Analog Write Msg.lvclass" Type="LVClass" URL="../Analog Writer Messages/Analog Write Msg/Analog Write Msg.lvclass"/>
 		<Item Name="Analog Write Multiple Msg.lvclass" Type="LVClass" URL="../Analog Writer Messages/Analog Write Multiple Msg/Analog Write Multiple Msg.lvclass"/>
 		<Item Name="Analog Write Single Msg.lvclass" Type="LVClass" URL="../Analog Writer Messages/Analog Write Single Msg/Analog Write Single Msg.lvclass"/>
 		<Item Name="Digital Toggle Single Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Toggle Single Msg/Digital Toggle Single Msg.lvclass"/>
