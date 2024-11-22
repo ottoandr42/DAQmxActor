@@ -17,11 +17,11 @@
 			<Item Name="Test 1.vi" Type="VI" URL="../Test 1.vi"/>
 			<Item Name="Test 2.vi" Type="VI" URL="../Test 2.vi"/>
 		</Item>
-		<Item Name="DAQmx Actor Interface.lvlib" Type="Library" URL="../DAQmx Actor Interface/DAQmx Actor Interface.lvlib"/>
 		<Item Name="DAQmx Actor.lvlib" Type="Library" URL="../DAQmx Actor/DAQmx Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
+				<Item Name="Actor Messages.lvlib" Type="Library" URL="/&lt;vilib&gt;/OT/Actor Messages/Actor Messages/Actor Messages.lvlib"/>
 				<Item Name="Casting Utility For Actors.vim" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Actor/Casting Utility For Actors.vim"/>
 				<Item Name="Check for Equality.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Check for Equality.vi"/>
 				<Item Name="DAQmx Clear Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Clear Task.vi"/>
@@ -247,6 +247,7 @@
 				<Item Name="Timestamp Subtract.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/TSOps.llb/Timestamp Subtract.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="DAQmx Actor Interface.lvlib" Type="Library" URL="../DAQmx Actor Interface/DAQmx Actor Interface.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
