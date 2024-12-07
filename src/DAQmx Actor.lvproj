@@ -15,6 +15,7 @@
 		<Item Name="DAQmx Actor.lvlib" Type="Library" URL="../DAQmx Actor/DAQmx Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Abstract Actor Messages.lvlib" Type="Library" URL="/&lt;vilib&gt;/OT/Abstract Actor Messages/Actor Messages/Abstract Actor Messages.lvlib"/>
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
 				<Item Name="Casting Utility For Actors.vim" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Actor/Casting Utility For Actors.vim"/>
 				<Item Name="DAQmx Clear Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Clear Task.vi"/>
