@@ -14,8 +14,9 @@
 		<Item Name="Digital Write Multiple Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Write Multiple Msg/Digital Write Multiple Msg.lvclass"/>
 		<Item Name="Digital Write Single Msg.lvclass" Type="LVClass" URL="../Digital Writer Messages/Digital Write Single Msg/Digital Write Single Msg.lvclass"/>
 		<Item Name="Get Digital Reader Current Values Queue Msg.lvclass" Type="LVClass" URL="../Digital Reader Messages/Get Digital Reader Current Values Queue Msg/Get Digital Reader Current Values Queue Msg.lvclass"/>
-		<Item Name="Get High Speed Data Queue Msg.lvclass" Type="LVClass" URL="../Analog Reader Messages/Get High Speed Data Queue Msg/Get High Speed Data Queue Msg.lvclass"/>
+		<Item Name="Set Analog Read Period Msg.lvclass" Type="LVClass" URL="../Analog Reader Messages/Set Analog Read Period Msg/Set Analog Read Period Msg.lvclass"/>
 	</Item>
+	<Item Name="Analog Reader Helper.lvclass" Type="LVClass" URL="../Analog Reader Helper/Analog Reader Helper.lvclass"/>
 	<Item Name="Analog Reader.lvclass" Type="LVClass" URL="../Analog Reader/Analog Reader.lvclass"/>
 	<Item Name="Analog Writer.lvclass" Type="LVClass" URL="../Analog Writer/Analog Writer.lvclass"/>
 	<Item Name="DAQmx Actor.lvclass" Type="LVClass" URL="../DAQmx Actor/DAQmx Actor.lvclass"/>
